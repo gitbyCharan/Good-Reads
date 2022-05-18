@@ -132,7 +132,7 @@
 <!-- copyright -->
 <div class="copy-right" style="background-color: black;">
     <div class="container">
-        <p>© 2020 Book Land. All rights reserved | Design by Anchal &amp; Diksha
+        <p>© 2022 Book Land. All rights reserved | Design by Charandeep Singh
         </p>
     </div>
 </div>
